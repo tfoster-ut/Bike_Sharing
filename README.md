@@ -6,7 +6,7 @@
 
 [Checkout Times Dasboard](https://public.tableau.com/profile/teale.foster#!/vizhome/CheckoutTimes-Dashboard/CheckoutTimes-Dashboard)
 
-<div>https://public.tableau.com/profile/teale.foster#!/vizhome/CheckoutTimes-Dashboard/CheckoutTimes-Dashboard</div>
+<body>https://public.tableau.com/profile/teale.foster#!/vizhome/CheckoutTimes-Dashboard/CheckoutTimes-Dashboard</body>
 
 ### Trips by Weekday
 

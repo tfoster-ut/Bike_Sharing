@@ -24,6 +24,8 @@ Additionaly on this dashboard we can see the type of user by weekday and the gen
 
 [Trips by Weekday](https://public.tableau.com/profile/teale.foster#!/vizhome/TripsbyWeekday-Dashboard/TripsbyWeekday-Dashboard)
 
+**Snippet of the interactive dashboard**
+
 ![](images/Trips_by_Weekday.png)
 
 ### Trips by Gender
@@ -33,6 +35,8 @@ Wehn looking at the trips by gender by weekday we the picture becomes clearer th
 **The below link takes you to the interactive dashboard**
 
 [Trips by Gender](https://public.tableau.com/profile/teale.foster#!/vizhome/TripsbyWeekdaybyGender-Sheet/TripsbyGender)
+
+**Snippet of the interactive dashboard**
 
 ![](images/Trips_by_Gender.png)
 
